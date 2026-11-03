@@ -68,14 +68,6 @@ export const t = {
       githubProject: "le projet sur GitHub ↗",
       substack: "Substack ↗",
     },
-    doom: {
-      label: "doom",
-      heading: "rip and tear, entre deux albums",
-      intro: "DOOM (1993), version shareware officielle d’id Software, émulée dans le navigateur avec js-dos.",
-      play: "jouer",
-      controls: "Flèches : se déplacer · Ctrl : tirer · Espace : ouvrir · Shift : courir · Échap : menu",
-      credit: "DOOM © id Software. Version shareware distribuée librement.",
-    },
     footer: {
       contact: "Contact",
       tagline: "marie-gold - musique, écriture, visuels et ingénierie",
@@ -149,14 +141,6 @@ export const t = {
       readPdf: "read the collection (PDF) ↗",
       githubProject: "the project on GitHub ↗",
       substack: "Substack ↗",
-    },
-    doom: {
-      label: "doom",
-      heading: "rip and tear, between albums",
-      intro: "DOOM (1993), the official id Software shareware release, emulated in the browser with js-dos.",
-      play: "play",
-      controls: "Arrows: move · Ctrl: fire · Space: open · Shift: run · Esc: menu",
-      credit: "DOOM © id Software. Freely distributed shareware edition.",
     },
     footer: {
       contact: "Contact",
