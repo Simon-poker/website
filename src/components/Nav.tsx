@@ -20,6 +20,7 @@ export function Nav() {
     { href: "/presse", label: dict.nav.presse },
     { href: "/reconnaissance", label: dict.nav.reconnaissance },
     { href: "/ecriture", label: dict.nav.ecriture },
+    { href: "/doom", label: dict.nav.doom },
   ];
 
   const tone = isHome ? "text-white" : "text-ink";

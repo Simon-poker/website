@@ -18,6 +18,7 @@ export function Hero() {
     { href: "/presse", label: dict.nav.presse },
     { href: "/reconnaissance", label: dict.nav.reconnaissance },
     { href: "/ecriture", label: dict.nav.ecriture },
+    { href: "/doom", label: dict.nav.doom },
   ];
 
   return (
